@@ -5,6 +5,9 @@ It provides you a list of Spotify links to artists' pages along with a link to a
 
 Each file shows a \``delta`\`. This represents the change in the monthly listener count of that artist from the last time a post was made...
 
+&nbsp;
+
+
 ### File names have been given in the following format
 <DATE-OF-CALCULATION\>`_`<TIME-TAKEN-TO-RUN-PROGRAM-IN-SECONDS\>`.md`  
 E.g. `10-10-21_2000.d` would mean that the program was run on 10th of October 2021 and took 2000 seconds to finish.
@@ -13,6 +16,7 @@ If filename has `UNKNOWN` as the time, then it means that the guy was extremely 
 So, the guy who couldn't possibly know how long the thing took to run, ruined that dataset...
 
 ### Now go ahead, check out a file!
+
 &nbsp;
 
 ### Some things you may want to know
